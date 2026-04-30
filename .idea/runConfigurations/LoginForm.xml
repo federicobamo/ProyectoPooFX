@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="LoginForm" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <option name="MAIN_CLASS_NAME" value="cr.ac.ucenfotec.baron.federico.LoginForm" />
+    <module name="ProyectoPooFC" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;$USER_HOME$/Downloads/ Universidad/javafx-sdk-26/lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
