@@ -1,3 +1,4 @@
+package cr.ac.ucenfotec.baron.federico;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
@@ -31,7 +32,7 @@ public class RegistroForm extends Application {
             TextField txtFechaNacimiento = new TextField();
 
             Button btnRegistro = new Button("Registrarse");
-
+            
             VBox vbox = new VBox(10, titulo, lblNombre, txtNombre, lblId, txtId,
                     lblcorreElectronico, txtCorreoElectronico,
                     lblContrasena, txtContrasena,
@@ -42,6 +43,7 @@ public class RegistroForm extends Application {
             stage.setTitle("Login - Subastas");
             stage.setScene(scene);
             stage.show();
+
         }
 
         public static void main(String[] args) {
